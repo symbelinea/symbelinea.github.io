@@ -1,1 +1,6 @@
-deneme yazısı
+---
+layout: post
+title: merhaba
+---
+
+deneme yazısıdır
